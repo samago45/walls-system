@@ -1,4 +1,4 @@
-** Sistema de Gestion Admnistrativa **
+**Sistema de Gestion Admnistrativa**
 
 Diseñado para optimizar los procesos administrativos en una institución educativa. Este sistema se ha desarrollado utilizando tecnologías modernas como ASP.Net, React y Tailwind CSS para proporcionar una experiencia de usuario intuitiva y amigable.
 
